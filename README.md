@@ -1,3 +1,2 @@
-@ICA-D
-PhD student at Imperial College London, studying the role of epigenetics in High-Grade Serous Ovarian Cancer (HGSOC) and its relationship with the immune system, as well as the effect of epigenetic modifiers in this context.
-Division of Cancer, Department of Surgery and Cancer, Faculty of Medicine, Imperial College London.
+@ICA-D is a postdoc at the University of Pennsylvania, using a combination of computational biology and cell engineering to study T cell specificities in cancer. 
+Previous work included a PhD at Imperial College London, studying the role of epigenetics in High-Grade Serous Ovarian Cancer (HGSOC) and its relationship with the immune system, as well as the effect of epigenetic modifiers in this context.
